@@ -62,9 +62,9 @@ Built for modern data analysts and business leaders who demand the power of Tabl
 * **Dynamic Sidebar Filters:** Refined options adapt dynamically based on unique value counts, dates, and ranges.
 * **Standalone Dashboard Export:** Export the entire filtered state and all active Plotly charts as a single, beautiful, styled, interactive, self-contained HTML file to share with clients or stakeholders.
 ---
-## 💎 Why DataLens 3.0 Over Enterprise BI?
+## 💎 Why DataLens 4.0 Over Enterprise BI?
 ## 🏗️ Architecture at a Glance
-- **`ap.py`** – The entry point, orchestrating Streamlit layout and tab navigation.
+- **`apy.py`** – The entry point, orchestrating Streamlit layout and tab navigation.
 - **Dashboard modules** – Individual functions (`generate_kpi_dashboard`, `generate_ml_insights_dashboard`, `generate_more_stats_dashboard`, etc.) keep the codebase modular and testable.
 - **Model layer** – Scikit‑learn pipelines handle preprocessing, training, and evaluation.
 - **AI layer** – Pandas‑AI parses NL queries into pandas operations.
