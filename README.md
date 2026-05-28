@@ -22,7 +22,7 @@ Built for modern data analysts and business leaders who demand the power of Tabl
 - Interactive widgets let you explore distributions, box‑plots, violin‑plots, and heat‑maps instantly.
 ---
 ### 4. Graph Gallery
-- Over **30** polished Plotly visualizations—histograms, scatter matrices, time‑series, clustering maps, and more.
+- Over **50** polished Plotly visualizations—histograms, scatter matrices, time‑series, clustering maps, and more.
 - Responsive design adapts to any screen size, with dark‑mode support out of the box.
 ## 🚀 Key Pillars of DataLens 3.0
 ### 5. One‑Click HTML Export
@@ -74,7 +74,7 @@ Built for modern data analysts and business leaders who demand the power of Tabl
 |
  Tableau / PowerBI 
 |
- DataLens Pro 3.0 
+ DataLens Pro 4.0 
 |
 |
 :---
